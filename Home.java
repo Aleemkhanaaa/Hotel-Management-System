@@ -1,5 +1,5 @@
 package PP;
-
+//HOTEL MANAGEMENT SYSTEM
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 
